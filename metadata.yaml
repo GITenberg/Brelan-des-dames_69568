@@ -1,5 +1,8 @@
 _repo: Brelan-des-dames_69568
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69568-h/images/cover.jpg
 creator:
   author:
     agent_name: Montesquiou-Fézensac, Robert, comte de
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Robert_de_Montesquiou
     - https://fr.wikipedia.org/wiki/Robert_de_Montesquiou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69568#Brelan-des-dames
 gutenberg_issued: '2022-12-17'
 identifiers:
   gutenberg: '69568'
